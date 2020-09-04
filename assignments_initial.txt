@@ -1,0 +1,103 @@
+
+Radio (Westerbork (WSRT, (Apertif), NRAO VLA Sky Survey (VLASS), LOFAR, Owens Valley, 
+    eMERLIN, CHIME, ASKAP, MeerKAT):
+    --------------------------------
+
+ Alisa Galishnikova, Hayk Hakobyan, Rodrigo Cordova, Roohi Dalal
+
+
+X-ray/Gamma-ray (ROSAT, eROSITA, SWIFT/Gehrels, INTEGRAL, NuSTAR, Fermi, Chandra):
+----------------------------------------------------------------------------------
+ 
+ Amy Secunda, Nora Linzer, Hayk Hakobyan, Chris Bambic 
+
+
+Cosmic Rays (Veritas, MAGIC, Pierre Auger, TA, IceCube, ISS, SK):
+-----------------------------------------------------------------
+
+ Vassilis Tsiolis, Nora Linzer, Tianshu Wang
+
+
+Large Scale Structure [Opt., Near IR?](WFIRST/Roman, Euclid, DES, DESI, KiDS, eBOSS, Subaru/HSC):
+-------------------------------------------------------------------------------------------------
+  
+  Amy Secunda, Roohi Dalal, Oliver Philcox, He Jia, Erin Kado-Fong, 
+  Christina Kreisch, Rodrigo Cordova, Chris Bambic
+
+
+Microwave/21-cm (Planck, ACT, SPT, ALMA?):
+------------------------------------------
+  
+ Roohi Dalal, Eric Moseley, Christina Kreisch 
+
+
+Neutrinos/low-energy (SK, HK, DUNE, JUNO, Gran Sasso facilities, IceCube):
+--------------------------------------------------------------------------
+
+ Goni Halevi, Tianshu Wang, Nora Linzer 
+
+
+Gravitational Waves (LIGO/Virgo, KAGRA, LISA, Cosmic Explorer, Einstein Telescope, DECIGO):
+-------------------------------------------------------------------------------------------
+
+ Amy Secunda, Goni Halevi, Tianshu Wang, He Jia 
+
+
+Optical/Near IR Transient (VLT Sky Survey (VLASS), VISTA, LSST/Rubin, ZTF/PTF, 
+    PanStarrs, Starmapper, ASASSN):
+    -------------------------------
+ 
+ Luke Bouma, Goni Halevi, Scott Carlsten, Erin Kado-Fong, 
+ Roberto Tejada Arevalo, Chris Bambic 
+
+
+IR (WISE, IRAS, WFIRST/Roman):
+------------------------------
+
+ Eric Moseley, Roohi Dalal, Amy Secunda
+
+
+Exoplanet (Kepler/K2, TESS, Platon, CHEOPS, HAT, WASP....):
+-----------------------------------------------------------
+
+ Sam Yee, Luke Bouma, Wenrui Xu, Erin Flowers, Yan Liang, Roberto Tejada Arevalo, 
+
+
+NEOs (Catalina/Mt. Lemmon, NEOWISE, PanStarrs, NEOCam):
+-------------------------------------------------------
+
+ Scott Carlsten, Chris Bambic, Lachlan Lancaster
+
+
+Galactic Dynamics (Gaia, Hipparcos, .....):
+-------------------------------------------
+
+ Sam Yee, Lachlan Lancaster, Miles Cranmer, Wenrui Xu, Roberto Tejada Arevalo
+
+
+Ultra-deep Fields (Hubble, ...):
+--------------------------------
+ 
+ Erin Kado-Fong 
+
+
+
+Visualization (and Animation):
+------------------------------
+    
+ Miles Cranmer, Erin Flowers, Yan Liang, Goni Halevi, Vassilis Tsiolis, 
+ Alisa Galishnikova, Wenrui Xu, Hayk Hakobyan
+
+GUIs:
+-----    
+ 
+ Erin Flowers, Miles Cranmer
+
+Digital Archives:
+-----------------
+ 
+ Luke Bouma
+
+
+
+
